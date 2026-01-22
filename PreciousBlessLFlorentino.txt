@@ -1,0 +1,51 @@
+PROGRAMMING LANGUAGES
+
+Python - Basic (Arrays, Lists, Dictionary)
+PHP - Advanced
+JavaScript - Intermediate
+
+PYTHON FRAMEWORKS 
+Flask - Basic (Variable Rules, HTTP Methods)
+Django - None (but can learn)
+
+NODE.JS/JAVASCRIPT STACK
+Node.js - None (but can learn)
+Express.js/Fastify - None 
+REST API development - None
+Authentication (JWT/sessions) - None
+
+FRONTEND
+React - None
+
+DATABASES
+MySql - Intermediate
+PostgreSQL - None
+
+Version Control
+Git - Basic
+
+CLOUD/DEVOPS
+AWS-None
+Azure-None
+
+PROJECT MANAGEMENT
+Jira - Intermediate 
+Trello - None
+Asana - None
+
+SAMPLE PROJECTS
+Thesis: Web-based Project Materials Monitoring System for DJY Construction (PHP,Bootstrap,HTML,CSS, JavaScript, MySQL Deployed online using IONOS)
+
+Web Applications:
+1. TrabahaDOOR (enables employers to post job listings and job seekers to search and apply,PHP,Bootstrap,HTML,CSS, JavaScript,MySQL)
+2. Binadang (e-commerce that allows farmers to sell veggies directly to buyers, PHP, MySQL, Bootstrap, HTML, CSS)
+3. BulakBol (Blog Site about Baguio's Tourist Spot)
+
+
+GITHUB LINK
+github.com/Precious143Bless
+
+APIS OR APPS YOU'VE DEPLOYED
+Local (Xampp)
+-all web project
+Thesis - deployed at IONOS accessible at https://testexample2.com/PMMS
