@@ -1,0 +1,50 @@
+PROGRAMMING LANGUAGES
+
+Python - Basic 
+PHP - Intermediate 
+JavaScript - Intermediate
+
+PYTHON FRAMEWORKS 
+Flask - None
+Django - None 
+
+NODE.JS/JAVASCRIPT STACK
+Node.js - None
+Express.js/Fastify - None 
+REST API development - None
+Authentication (JWT/sessions) - None
+
+FRONTEND
+React - None
+
+DATABASES
+MySql - Intermediate
+PostgreSQL - None
+
+Version Control
+Git - None
+
+CLOUD/DEVOPS
+AWS-None
+Azure-None
+
+PROJECT MANAGEMENT
+Jira - None 
+Trello - None
+Asana - None
+
+SAMPLE PROJECTS
+
+Thesis Project
+Police Vehicle Maintenance Operations Through a Web-Based Record Management System with Descriptive Analysis
+Technologies Used: PHP, Bootstrap, HTML, CSS, JavaScript, MySQL
+Deployment: Hosted online using IONOS
+Live URL: https://testexample2.com/LTMPSRMS/
+
+Web Applications:
+1. CozyCove (furniture-based e-commerce platform using HTML,CSS, Bootstrap,CSS,JavaScript,MySQL - MVC )
+2. E-Auction (auction platform where sellers post products for bidding, and buyers participate in real-time PHP, MySQL, Bootstrap, HTML, CSS)
+
+
+GITHUB LINK
+github.com/roxasangeline09
