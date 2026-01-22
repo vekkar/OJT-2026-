@@ -1,0 +1,43 @@
+‎Programming Languages
+‎•Python - Basic
+‎•PHP - Intermediate 
+‎•JavaScript - Intermediate
+‎
+‎Python Frameworks (willing to learn) 
+‎•Flask - None
+‎•Django - None
+‎
+‎Node.js / JavaScript Stack
+‎•Node.js - None
+‎•Express.js / Fastify - None
+‎•REST API development - None
+‎•Authentication - Basic (sessions , csrf tokens)
+‎
+‎Frontend
+‎•React - None
+‎
+‎Databases
+‎•MySQL - Intermediate 
+‎•PostgreSQL - None
+‎
+‎Version Control
+‎•Git (GitHub / GitLab / Bitbucket) - None
+‎
+‎Cloud / DevOps
+‎•AWS (EC2, S3, RDS, Lambda – if any) - None
+‎•Azure (App Service, VM, Functions – if any) - None
+‎
+‎Project Management / Collaboration Tools (willing to learn)
+‎•Jira - None
+‎•Trello - None
+‎•Asana - None
+‎
+‎Sample Projects:
+‎
+‎1. Thesis - Online Public Access Catalog for CIS. Online Catalog for CIS Library contents, with book reservation, availability tracking, fine management, etc . Developed using Laravel, PHP, HTML, JavaScript, CSS, MySql. 
+‎Available at : https://cis-opac.testexample2.com/
+‎
+‎2. CozyCove - Furniture e-commerce platform where sellers can upload furnitures while buyers can add to cart and checkout products. Developed using MVC architecture, PHP, HTML, CSS, MySql. Deployed locally. 
+‎
+‎3. GWA Calculator - developed using Android Studio.
+‎
