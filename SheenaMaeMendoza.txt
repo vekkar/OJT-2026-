@@ -34,5 +34,7 @@ Trello - None
 Asana - None
 
 SAMPLE PROJECTS
+Thesis- a web-based School Management System for Benguet National High School.
 Web Applications:
+
 1.RapidHire-job posting and job hunting website using PHP,HTML,CSS,MySQL,JavaScript, and bootstrap.
