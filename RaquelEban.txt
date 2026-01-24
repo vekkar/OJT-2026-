@@ -1,0 +1,55 @@
+programming language
+PHP-basic
+JavaScript- basic
+
+Python Framework
+None
+
+Frontend
+React - basic
+
+Database
+MySQL
+
+Version Control
+GitHub
+
+Cloud/DevOps
+None
+
+Project Management/Collaberation tools
+
+
+Programming Languages
+	•	Python - None
+	•	PHP - Basic
+	•	JavaScript - Basic
+
+Python Frameworks
+	•	Flask - None
+	•	Django - None
+
+Node.js / JavaScript Stack
+	•	Node.js - None
+	•	Express.js / Fastify - None
+	•	REST API development - None
+	•	Authentication (JWT / sessions) - None
+
+Frontend
+	•	React - Basic
+
+Databases
+	•	MySQL - Intermidate
+	•	PostgreSQL - None
+
+Version Control
+	•	Git  - None
+
+Cloud / DevOps
+	•	AWS  - None
+	•	Azure - None
+
+Project Management / Collaboration Tools
+	•	Jira - None
+	•	Trello - None
+	•	Asana - None
