@@ -1,25 +1,3 @@
-programming language
-PHP-basic
-JavaScript- basic
-
-Python Framework
-None
-
-Frontend
-React - basic
-
-Database
-MySQL
-
-Version Control
-GitHub
-
-Cloud/DevOps
-None
-
-Project Management/Collaberation tools
-
-
 Programming Languages
 	•	Python - None
 	•	PHP - Basic
@@ -52,4 +30,5 @@ Cloud / DevOps
 Project Management / Collaboration Tools
 	•	Jira - None
 	•	Trello - None
+
 	•	Asana - None
