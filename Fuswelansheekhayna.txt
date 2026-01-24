@@ -1,40 +1,14 @@
-Programming Languages
-	•	Python - None
+
 	•	PHP - Basic
 	•	JavaScript - Basic
-
-Python Frameworks (Willing to learn)
-	•	Flask - None
-	•	Django - None
-
-Node.js / JavaScript Stack
 	•	Node.js - Basic
-	•	Express.js / Fastify - None
-	•	REST API development - None
 	•	Authentication - sessions
-
-Frontend
 	•	React - Basic
-
-Databases
 	•	MySQL - Basic
 	•	PostgreSQL - None
-
-Version Control
 	•	Git - Basic
-
-Cloud / DevOps
-	•	AWS - None
-	•	Azure - None
-
-Project Management / Collaboration Tools
-	•	Jira - None
-	•	Trello - None
-	•	Asana - None
-
-Optional (but encouraged)
-	•	Sample projects
-	  1.Recipe App React Native(JavaScript)/Firebase
+		Sample projects
+	1.Recipe App React Native(JavaScript)/Firebase
     2.Budgeting App
     3.Frostycake Recipe website using WordPress
     4.Thesis - Web-based library management system for BSU-BOKOD Campus 
