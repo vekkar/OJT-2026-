@@ -1,0 +1,66 @@
+PROGRAMMING LANGUAGES
+
+Python - none
+PHP - Intermediate
+JavaScript - Intermediate
+
+PYTHON FRAMEWORKS 
+Flask - None
+Django - None
+
+NODE.JS/JAVASCRIPT STACK
+Node.js - Intermediate
+Express.js/Fastify - None 
+REST API development - Basic
+Authentication (JWT/sessions) - None
+
+FRONTEND
+React - Basic-Intermediate
+
+DATABASES
+MySql - Intermediate
+PostgreSQL - Basic
+
+Version Control
+Git - Intermediate
+
+CLOUD/DEVOPS
+AWS-None
+Azure-None
+
+PROJECT MANAGEMENT
+Jira - None 
+Trello - None
+Asana - None
+
+SAMPLE PROJECTS
+Thesis: 
+    # 🏫 BSU Bokod Dormitory Management System
+    A Web Based dormitory management system built with Laravel 12, Inertia.js, and React for BSU Bokod Campus.
+    ## 🚀 Features
+    ### **Multi-Role Access**
+    - **Admin**: System-wide management, dormitory oversight, user management
+    - **Manager**: Dormitory-specific management, dormitorian registration, room assignments
+    - **Cashier**: Payment processing and tracking across all dormitories
+    - **Dormitorians**: Personal dashboard, status updates, password management
+    ### **Core Functionality**
+    - 📋 **Application Management**: Dormitorian application processing with approval/rejection workflow
+    - 🏠 **Room Management**: Room assignments, capacity tracking, pricing per semester
+    - 👥 **Dormitorian Management**: Registration, status tracking, payment monitoring
+    - 📅 **Booking System**: Semester-based booking (replaced date-based system)
+    - 💰 **Payment Tracking**: Comprehensive payment status management for cashiers
+    - 🧹 **Cleaning Schedules**: Room cleaning schedule management
+    - 📊 **Archive System**: Role-based archive management with bulk operations
+    
+    ## 🛠️ Tech Stack
+    - **Backend**: php framework - Laravel 12 (PHP 8.2+)
+    - **Frontend**: React 19 + Inertia.js + TypeScript
+    - **Styling**: Tailwind CSS 4 + Radix UI Components
+    - **Database**: PostgreSQL (Production) / SQLite (Development)
+    - **Deployment**: Docker + Render.com
+
+GITHUB LINK
+https://github.com/DavidJana2404
+
+APIS OR APPS YOU'VE DEPLOYED
+BSU Bokod Dormitory Management System
